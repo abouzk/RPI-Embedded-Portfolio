@@ -1,8 +1,7 @@
 # MSP432 Embedded Control Portfolio
 **Hardware:** TI MSP432P401R (ARM Cortex-M4F) | **Sensors:** Ultrasonic Rangefinder, I2C Compass
 
-![Hardware Integration: TI MSP432 Launchpad mounted on custom mobile chassis](media/launchpad_and_car.png)
-*Figure 1: The Embedded Control Subsystem (MSP432) integrated with the drivetrain.*
+![Alt text](media/launchpad_and_car.png)
 
 ## Overview
 This repository contains low-level drivers and control logic developed for an autonomous mobile robot. It demonstrates the progression from blocking, sequential logic to deterministic, interrupt-driven control systems.
